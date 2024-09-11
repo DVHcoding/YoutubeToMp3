@@ -4,7 +4,7 @@
   "description": "App that converts a youtube video to mp3",
   "main": "app.js",
   "engines": {
-    "node": "18.x"
+    "node": "20.x"
   },
   "scripts": {
     "start": "node app.js",
