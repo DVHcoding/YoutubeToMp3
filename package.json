@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "App that converts a youtube video to mp3",
   "main": "app.js",
+  "engines": {
+    "node": "18.x"
+  },
   "scripts": {
     "start": "node app.js",
     "dev": "nodemon app.js",
